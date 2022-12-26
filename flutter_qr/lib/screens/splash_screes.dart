@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_qr/qr/create_qr.dart';
+import 'package:flutter_qr/screens/qr/create_qr.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

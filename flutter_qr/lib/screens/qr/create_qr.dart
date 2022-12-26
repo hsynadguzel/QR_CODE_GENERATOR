@@ -16,14 +16,7 @@ class _CreateQrState extends State<CreateQr> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        elevation: 0.0,
-        centerTitle: true,
-        title: const Text(
-          'CREATE QR CODE',
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
-      ),
+      appBar: appBar(),
       backgroundColor: Colors.white,
       body: SingleChildScrollView(
         child: Padding(
@@ -38,6 +31,18 @@ class _CreateQrState extends State<CreateQr> {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  AppBar appBar() {
+    return AppBar(
+      backgroundColor: Colors.white,
+      elevation: 0.0,
+      centerTitle: true,
+      title: const Text(
+        'CREATE QR CODE',
+        style: TextStyle(fontWeight: FontWeight.bold),
       ),
     );
   }

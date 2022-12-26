@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_qr/qr/create_qr.dart';
-import 'package:flutter_qr/splash_screes.dart';
+import 'package:flutter_qr/screens/splash_screes.dart';
 
 void main() {
   runApp(const MyApp());
