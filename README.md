@@ -1,3 +1,9 @@
+# QR WEB
+WEB: https://hsynadguzel.github.io/QR_WEB/#/
+
+![image](https://user-images.githubusercontent.com/98910348/235442193-9563e8f0-bb1a-4d0a-89bd-25f9e75d541a.png)
+
+#
 ![qr_code](https://user-images.githubusercontent.com/98910348/215597817-e53fb189-d72e-4a60-8b89-425eba973cb6.jpg)
 
 # QR_CODE_GENERATOR
